@@ -15,6 +15,15 @@
 [![Eve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matercan&showicons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  <!--START_SECTION:waka-->
+
+```txt
+C++           11 hrs 53 mins  ████████▓░░░░░░░░░░░░░░░░   34.30 %
+QML           6 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+CSS           4 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+C             4 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Lua           1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+```
+
 <!--END_SECTION:waka-->
 
 
