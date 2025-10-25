@@ -14,6 +14,10 @@
 
 [![Eve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matercan&showicons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <img src="https://count.getloli.com/@Matercan?name=Matercan&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 
 <!--
