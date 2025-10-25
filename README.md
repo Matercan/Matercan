@@ -7,7 +7,7 @@
 
 ## Socials
 
-<img src="https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif" alt="evernight" align="right">
+<img src="https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif" alt="evernight" align="right" height="300" width="300">
 
 - discord: @evernight_2
 - email: matercan@proton.me
@@ -25,6 +25,9 @@ Lua           1 hr 31 mins    █░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+
+
 
 
 <img src="https://count.getloli.com/@Matercan?name=Matercan&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
