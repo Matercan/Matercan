@@ -3,7 +3,7 @@
 - Local trans linux user with weird pronouns (it/they)
 - I use hyprland for nix *and* arch btw
 - Rust is the best lang ever written, tho C is good too
-- vim is the best text edtir ever written
+- vim is the best text editor ever written
 
 ## Socials
 
