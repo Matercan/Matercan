@@ -1,7 +1,7 @@
 ## Meow
 
 - Local trans linux user with weird pronouns (it/they)
-- I use hyprland for nix *and* arch btw
+- I use mangowc for nix
 - Rust is the best lang ever written, tho C is good too
 - vim is the best text editor ever written
 
@@ -9,7 +9,7 @@
 
 <img src="https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif" alt="evernight" align="right" height="300" width="300">
 
-- discord: @evernight_2
+- discord: @matercan23
 - email: matercan@proton.me
 
 [![Eve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matercan&showicons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
