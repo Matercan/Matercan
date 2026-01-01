@@ -17,11 +17,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 1 min
+Total Time: 0 secs
 
-Nix            2 hrs           >>>>>>>>>>>>>>>>>>>>>>>>>   98.47 %
-Desktop file   1 min           -------------------------   00.87 %
-Other          0 secs          -------------------------   00.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
