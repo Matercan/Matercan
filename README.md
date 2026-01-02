@@ -1,9 +1,6 @@
 ## Meow
 
-- Local trans linux user with weird pronouns (it/they)
-- I use mangowc for nix
-- Rust is the best lang ever written, tho C is good too
-- vim is the best text editor ever written
+- I like rhythmn games
 
 ## Socials
 
