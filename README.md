@@ -17,9 +17,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 8 hrs 54 mins
 
-No activity tracked
+Nix        3 hrs 52 mins   >>>>>>>>>>>--------------   43.22 %
+Rust       3 hrs 20 mins   >>>>>>>>>----------------   37.28 %
+conf       1 hr 10 mins    >>>----------------------   13.16 %
+JSON       18 mins         >------------------------   03.38 %
+INI        5 mins          -------------------------   01.01 %
 ```
 
 <!--END_SECTION:waka-->
