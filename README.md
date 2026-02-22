@@ -14,9 +14,12 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 34 mins
 
-No activity tracked
+Rust    2 hrs 24 mins         >>>>>>>>>>>>>>>>>>>>>>>--   93.30 %
+C       7 mins                >------------------------   04.54 %
+Nix     2 mins                -------------------------   01.82 %
+Other   0 secs                -------------------------   00.34 %
 ```
 
 <!--END_SECTION:waka-->
