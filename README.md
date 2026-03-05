@@ -14,12 +14,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 hrs 5 mins
+Total Time: 20 hrs 36 mins
 
-Rust        24 hrs 50 mins        >>>>>>>>>>>>>>>>>>>>>>>>>   99.02 %
-gitignore   7 mins                -------------------------   00.51 %
-C           6 mins                -------------------------   00.46 %
-TOML        0 secs                -------------------------   00.01 %
+Rust        20 hrs 17 mins        >>>>>>>>>>>>>>>>>>>>>>>>>   98.45 %
+Nix         11 mins               -------------------------   00.93 %
+gitignore   7 mins                -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
