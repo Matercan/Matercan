@@ -14,13 +14,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 22 mins
+Total Time: 13 hrs 13 mins
 
-C             4 hrs 40 mins         >>>>>>>>>>>--------------   45.09 %
-Rust          3 hrs 6 mins          >>>>>>>------------------   29.88 %
-Nix           1 hr 18 mins          >>>----------------------   12.60 %
-JavaScript    25 mins               >------------------------   04.11 %
-TypeScript    23 mins               >------------------------   03.85 %
+C             5 hrs 41 mins         >>>>>>>>>>>--------------   43.04 %
+Rust          4 hrs 28 mins         >>>>>>>>-----------------   33.84 %
+TypeScript    1 hr 12 mins          >>-----------------------   09.16 %
+Nix           52 mins               >>-----------------------   06.60 %
+JavaScript    25 mins               >------------------------   03.22 %
 ```
 
 <!--END_SECTION:waka-->
