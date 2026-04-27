@@ -14,10 +14,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 18 mins
+Total Time: 7 hrs 4 mins
 
-Rust   7 hrs 16 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.56 %
-Nix    1 min                 -------------------------   00.44 %
+Rust   7 hrs 4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
