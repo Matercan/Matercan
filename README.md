@@ -14,13 +14,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 32 mins
+Total Time: 57 mins
 
-Zig           5 hrs 32 mins         >>>>>>>>>>>>>>>>>>>>>----   84.66 %
-C             30 mins               >>-----------------------   07.71 %
-Nix           21 mins               >------------------------   05.39 %
-C++           5 mins                -------------------------   01.39 %
-Objective-C   2 mins                -------------------------   00.76 %
+Zig   57 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
