@@ -14,9 +14,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 3 hrs 17 mins
 
-No activity tracked
+C++    1 hr 51 mins          >>>>>>>>>>>>>>-----------   56.48 %
+Nix    48 mins               >>>>>>-------------------   24.54 %
+YAML   20 mins               >>>----------------------   10.56 %
+Zig    13 mins               >>-----------------------   07.05 %
+JSON   2 mins                -------------------------   01.36 %
 ```
 
 <!--END_SECTION:waka-->
