@@ -14,10 +14,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 1 hr 11 mins
 
-Nix    5 mins                >>>>>>>>>>>>>>>>>>>>>>>>>   98.26 %
-TOML   0 secs                -------------------------   01.74 %
+Rust   1 hr 5 mins           >>>>>>>>>>>>>>>>>>>>>>>--   91.99 %
+Nix    5 mins                >>-----------------------   07.87 %
+TOML   0 secs                -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->
