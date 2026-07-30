@@ -14,13 +14,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 16 mins
+Total Time: 44 mins
 
-Rust     4 hrs 2 mins          >>>>>>>>>>>>>>>>>>>>-----   79.36 %
-Other    48 mins               >>>>---------------------   16.01 %
-Python   8 mins                >------------------------   02.64 %
-C        5 mins                -------------------------   01.76 %
-TOML     0 secs                -------------------------   00.22 %
+Rust   44 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
