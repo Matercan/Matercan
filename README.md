@@ -14,11 +14,10 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 38 mins
+Total Time: 1 hr 41 mins
 
-Rust   1 hr 56 mins          >>>>>>>>>>>>>------------   53.46 %
-C#     1 hr 35 mins          >>>>>>>>>>>--------------   43.70 %
-XML    6 mins                >------------------------   02.84 %
+C#    1 hr 35 mins          >>>>>>>>>>>>>>>>>>>>>>>--   93.90 %
+XML   6 mins                >>-----------------------   06.10 %
 ```
 
 <!--END_SECTION:waka-->
