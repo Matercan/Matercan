@@ -14,10 +14,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 41 mins
+Total Time: 0 secs
 
-C#    1 hr 35 mins          >>>>>>>>>>>>>>>>>>>>>>>--   93.90 %
-XML   6 mins                >>-----------------------   06.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
