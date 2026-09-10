@@ -14,11 +14,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr
+Total Time: 0 secs
 
-Rust        38 mins               >>>>>>>>>>>>>>>>---------   64.01 %
-C++         19 mins               >>>>>>>>-----------------   31.59 %
-gitignore   2 mins                >------------------------   04.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
