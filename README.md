@@ -14,9 +14,10 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 28 mins
 
-No activity tracked
+Nix     1 hr 28 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   99.98 %
+Other   0 secs                -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
