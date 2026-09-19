@@ -14,9 +14,10 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 19 mins
+Total Time: 12 hrs 54 mins
 
-Nix   10 hrs 19 mins        >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Nix   12 hrs 53 mins        >>>>>>>>>>>>>>>>>>>>>>>>>   99.87 %
+Lua   1 min                 -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
