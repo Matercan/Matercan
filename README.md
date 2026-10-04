@@ -16,7 +16,8 @@
 ```txt
 Total Time: 8 mins
 
-Python   8 mins                >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python   8 mins                >>>>>>>>>>>>>>>>>>>>>>>>-   96.40 %
+zsh      0 secs                >------------------------   03.60 %
 ```
 
 <!--END_SECTION:waka-->
