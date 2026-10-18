@@ -14,10 +14,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 59 mins
+Total Time: 0 secs
 
-Nix    2 hrs 47 mins         >>>>>>>>>>>>>>>>>>>>>>>--   93.21 %
-TOML   12 mins               >>-----------------------   06.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
